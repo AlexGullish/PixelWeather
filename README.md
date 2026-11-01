@@ -42,15 +42,15 @@ Weather data is automatically refreshed every 15 minutes. Failed updates trigger
 <img width="1662" height="746" alt="image" src="https://github.com/user-attachments/assets/2bba03b5-f6ec-4715-aa4b-19ebb7db4e7e" />
 
 ## BOM
-| LCD Display | 1                | Waveshare | $8.99     | $8.99  | https://www.waveshare.com/1.8inch-lcd-module.htm |                                                                                          |
-|-------------|------------------|-----------|-----------|--------|--------------------------------------------------|------------------------------------------------------------------------------------------|
-|             | PCB              | 1         | JLCPCB    | $7.20  | $7.20                                            | https://cart.jlcpcb.com/quote?rand=0.7472206825568115                                    |
-|             | 1x9 Dupont Case  | 2         | BerryBase | $0.07  | $0.14                                            | https://www.berrybase.ch/dupont-gehaeuse-1x9-pin                                         |
-|             | 1x10 Dupont Case | 2         | BerryBase | $0.10  | $0.20                                            | https://www.berrybase.ch/dupont-gehaeuse-1x10-pin                                        |
-|             | Pin Strip        | 1         | BerryBase | $0.25  | $0.25                                            | https://www.berrybase.ch/stiftleiste-1x-20-polig-rm-2-54-gerade                          |
-|             | Push Button      | 2         | BerryBase | $0.25  | $0.50                                            | https://www.berrybase.ch/en/short-stroke-pushbutton-vertical-pcb-mounting-6x6mm-h-13.0mm |
-|             | Estimated total  |           |           | $17.28 |                                                  |                                                                                          |
-
+| Item             | Qty | Supplier  | Cost/item | Total Cost | link                                                                                     |
+|------------------|-----|-----------|-----------|------------|------------------------------------------------------------------------------------------|
+| LCD Display      | 1   | Waveshare | $8.99     | $8.99      | https://www.waveshare.com/1.8inch-lcd-module.htm                                         |
+| PCB              | 1   | JLCPCB    | $7.20     | $7.20      | https://cart.jlcpcb.com/quote?rand=0.7472206825568115                                    |
+| 1x9 Dupont Case  | 2   | BerryBase | $0.07     | $0.14      | https://www.berrybase.ch/dupont-gehaeuse-1x9-pin                                         |
+| 1x10 Dupont Case | 2   | BerryBase | $0.10     | $0.20      | https://www.berrybase.ch/dupont-gehaeuse-1x10-pin                                        |
+| Pin Strip        | 1   | BerryBase | $0.25     | $0.25      | https://www.berrybase.ch/stiftleiste-1x-20-polig-rm-2-54-gerade                          |
+| Push Button      | 2   | BerryBase | $0.25     | $0.50      | https://www.berrybase.ch/en/short-stroke-pushbutton-vertical-pcb-mounting-6x6mm-h-13.0mm |
+| Estimated total  | 1   |           |           | $0.00      |                                                                                          |
 
 
 The ESP is already owned and therefore funding for it is not required
