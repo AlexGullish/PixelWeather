@@ -50,7 +50,7 @@ Weather data is automatically refreshed every 15 minutes. Failed updates trigger
 | 1x10 Dupont Case | 2   | BerryBase | $0.10     | $0.20      | https://www.berrybase.ch/dupont-gehaeuse-1x10-pin                                        |
 | Pin Strip        | 1   | BerryBase | $0.25     | $0.25      | https://www.berrybase.ch/stiftleiste-1x-20-polig-rm-2-54-gerade                          |
 | Push Button      | 2   | BerryBase | $0.25     | $0.50      | https://www.berrybase.ch/en/short-stroke-pushbutton-vertical-pcb-mounting-6x6mm-h-13.0mm |
-| Estimated total  | 1   |           |           | $0.00      |                                                                                          |
+| Estimated total  | 1   |           |           | $17.28      |                                                                                          |
 
 
 The ESP is already owned and therefore funding for it is not required
